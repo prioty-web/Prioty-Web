@@ -284,11 +284,20 @@
     border-radius: 16px;
 }
 
+#bottom .box8 .heading{
+    color: white;
+}
+#bottom .box8 .description{
+    color: white;
+    opacity: 0.7;
+
+}
 #bottom .box8 .input{
     border-radius: 5px;
     padding: 10px;
     width: 300px;
 }
+
 #bottom .box8 .input2{
     border-radius: 5px;
     padding: 10px;
@@ -307,3 +316,4 @@ footer{
     letter-spacing: 0%;
     text-align: center;
     }
+    
