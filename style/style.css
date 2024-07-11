@@ -277,3 +277,33 @@
     margin: 10px;
 
 }
+
+#bottom .box8{
+    background-image: url("../assets/handshake2.jpg");
+    text-align: center;
+    border-radius: 16px;
+}
+
+#bottom .box8 .input{
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+}
+#bottom .box8 .input2{
+    border-radius: 5px;
+    padding: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#bottom .box9 .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    }
