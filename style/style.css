@@ -132,6 +132,7 @@
     padding: 10px;
 
 }
+
 #bottom .box3{
     text-align: center;
     
@@ -162,4 +163,117 @@
     display: flex;
     justify-content: space-around;
     padding: 30px; 
+}
+#bottom .box5 .heading {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#bottom .box5 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+#bottom .box6{
+    display: flex;
+}
+#bottom .box6 .target{
+    border-radius: 16px;
+    padding: 32px 20px;
+    margin: 10px;
+}
+#bottom .box6 .target .img{
+
+}
+#bottom .box6 .target .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+}
+#bottom .box6 .target .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+}
+#bottom .box6 .target a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+#bottom .box7{
+    display: flex;
+    margin: 32px 0px;
+    padding: 30px; 
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+#bottom .box7 .heading{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+#bottom .box7 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    
+}
+
+#bottom .box7 a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+#bottom .box7 .image{
+    width: 85px;
+    height: 85px;
+    margin: 30px;
+}
+#bottom .box7 .image .img{
+    width: 85px;
+    height: 85px;
+    margin: 10px;
+
 }
