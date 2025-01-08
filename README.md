@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    style="width: 100%; height: 250px; max-width: 100%; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" 
+    style="width: 100%; height: auto; max-width: 100%; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" 
     src="https://i.ibb.co.com/VV2BLp5/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" />
 </div>
 
@@ -70,9 +70,9 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 | 🎁 Projects                                 | 🌐 Client Repo                                                                                                | ⚙️ Server Repo                                                                                               | 🔗 Live Link                                                | ✨ Features                                    | 🚀 Future Enhancements                                   |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
-| [Iron Wheel Website]| [GitHub](https://github.com/aaliahammedpriom/iron-wheel-client) | [GitHub](https://github.com/aaliahammedpriom/iron-wheel-server) | [Live](https://elegant-fox-192e45.netlify.app/)  | User authentication | Add comment feature       |
-| [Orchid Website]| [GitHub](https://github.com/aaliahammedpriom/orchid-client/) | [GitHub](https://github.com/aaliahammedpriom/orchid-server/) | [Live](https://stirring-salamander-eeaf34.netlify.app/)  | User authentication| Add comment feature       |
-| [EcoYeti Website]| [GitHub](https://github.com/aaliahammedpriom/eco-yeti) | ------------- | [Live](https://ecoyeti-51d59.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
+| [Query-Hunt]| [GitHub](https://github.com/prioty-web/query-hunt-client) | [GitHub](https://github.com/prioty-web/query-hunt-server) | [Live](https://query-hunt.web.app/)  | User authentication | Add comment feature       |
+| [sports-eupipment-store]| [GitHub](https://github.com/prioty-web/sports-equipment-client) | [GitHub](https://github.com/prioty-web/sports-equipment-server) | [Live](https://sports-equipment-d2de9.web.app/)  | User authentication| Add comment feature       |
+| [Carrer-counsel]| [GitHub](https://github.com/prioty-web/career-counsel) | ------------- | [Live](https://career-council-f8d6b.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
 
 
 ---
