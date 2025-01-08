@@ -72,7 +72,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
 | [Query-Hunt]| [GitHub](https://github.com/prioty-web/query-hunt-client) | [GitHub](https://github.com/prioty-web/query-hunt-server) | [Live](https://query-hunt.web.app/)  | User authentication | Add comment feature       |
 | [sports-eupipment-store]| [GitHub](https://github.com/prioty-web/sports-equipment-client) | [GitHub](https://github.com/prioty-web/sports-equipment-server) | [Live](https://sports-equipment-d2de9.web.app/)  | User authentication| Add comment feature       |
-| [Carrer-counsel]| [GitHub](https://github.com/prioty-web/career-counsel) | ------------- | [Live](https://career-council-f8d6b.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
+| [Carrer-counsel]| [GitHub](https://github.com/prioty-web/career-counsel) | ----- | [Live](https://career-council-f8d6b.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
 
 
 ---
