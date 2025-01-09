@@ -87,7 +87,7 @@ Check out my portfolio [here](https://prioty-decoded.surge.sh/).
 ## 📞 Contact <a name="contact"></a>
 
 <div align="center" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/anjum-prioty-1b3636317/" target="_blank">
+  <a href="https://www.linkedin.com/in/anjum-hamim-prioty/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:priotyy12@gmail.com" target="_blank">
