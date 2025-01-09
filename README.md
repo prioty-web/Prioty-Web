@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #4CAF50;">Assalamualikum, I'm Anjum Hamim Prioty</h1>
+<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #4CAF50;">Assalamualikum</h1>
 <!-- <h3 align="center" style="font-family: 'Lucida Console', Courier, monospace; color: #FF5733;">Junior MERN Stack Developer | Passionate Learner</h3> -->
 
 ---
@@ -35,7 +35,7 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 - 🔎 Exploring **Next.js** for scalable applications.
 - 🎨 Designing a **Restaurant Management Website**.
 - 🔧 Working on **web app security improvements**.
-- 🚀 Learning **SQL**.
+- 🚀 Want to learn **Cloud, AI, SQL**.
 
 🌟 **Fun Fact:** I love debugging code as much as solving puzzles in my free time!
 
@@ -66,13 +66,14 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 📌 Pinned Repositories <a name="pinned-repositories"></a>
+## 📌 Pinned Repositories <a name="pinned-repositories"></a> 
 
-| 🎁 Projects                                 | 🌐 Client Repo                                                                                                | ⚙️ Server Repo                                                                                               | 🔗 Live Link                                                | ✨ Features                                    | 🚀 Future Enhancements                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
-| [Query-Hunt]| [GitHub](https://github.com/prioty-web/query-hunt-client) | [GitHub](https://github.com/prioty-web/query-hunt-server) | [Live](https://query-hunt.web.app/)  | User authentication | Add comment feature       |
-| [sports-eupipment-store]| [GitHub](https://github.com/prioty-web/sports-equipment-client) | [GitHub](https://github.com/prioty-web/sports-equipment-server) | [Live](https://sports-equipment-d2de9.web.app/)  | User authentication| Add comment feature       |
-| [Carrer-counsel]| [GitHub](https://github.com/prioty-web/career-counsel) | ----- | [Live](https://career-council-f8d6b.web.app/)  | Normal Blog Site| User authentication,Add chat & comment feature       |
+| **Project**               | **Client Repo**                                                                                     | **Server Repo**                                                                                     | **Live Link**                                       | **Key Features**           | **Future Enhancements**                  |
+|---------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------|------------------------------------------|
+| **Query Hunt**            | [GitHub](https://github.com/prioty-web/query-hunt-client)                                           | [GitHub](https://github.com/prioty-web/query-hunt-server)                                           | [Live](https://query-hunt.web.app/)               | User Authentication         | Add Comment Feature                      |
+| **Sports Equipment Store**| [GitHub](https://github.com/prioty-web/sports-equipment-client)                                     | [GitHub](https://github.com/prioty-web/sports-equipment-server)                                     | [Live](https://sports-equipment-d2de9.web.app/)   | User Authentication         | Add Comment Feature                      |
+| **Career Counsel**         | [GitHub](https://github.com/prioty-web/career-counsel)                                              | -----                                                                                             | [Live](https://career-council-f8d6b.web.app/)     | Blog Site                   | User Authentication, Add Chat & Comments |  
+
 
 
 ---
