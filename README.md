@@ -58,10 +58,10 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
 </div>
 
-### **Database & Other Tools:**
+### **Database:**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+ 
 </div>
 
 ---
