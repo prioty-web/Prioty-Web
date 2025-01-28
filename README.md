@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     style="width: 100%; height: auto; max-width: 100%; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" 
-    src="https://ibb.co.com/h1dp204" />
+    src="https://i.ibb.co.com/fd3Jzjy4/Anjum-Hamim-Prioty-2-2.png" />
 </div>
 
 ---
