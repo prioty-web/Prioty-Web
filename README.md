@@ -66,13 +66,15 @@ As a junior (MERN) developer, I am continuously pushing boundaries, embracing ch
 
 ---
 
-## 📌 Pinned Repositories <a name="pinned-repositories"></a> 
+# 📌 Pinned Repositories
 
 | **Project**               | **Client Repo**                                                                                     | **Server Repo**                                                                                     | **Live Link**                                       | **Key Features**           | **Future Enhancements**                  |
 |---------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------|------------------------------------------|
-| **Query Hunt**            | [GitHub](https://github.com/prioty-web/query-hunt-client)                                           | [GitHub](https://github.com/prioty-web/query-hunt-server)                                           | [Live](https://query-hunt.web.app/)               | Product Review        | User can express prefarance                        |
-| **Sports Equipment Store**| [GitHub](https://github.com/prioty-web/sports-equipment-client)                                     | [GitHub](https://github.com/prioty-web/sports-equipment-server)                                     | [Live](https://sports-equipment-d2de9.web.app/)   | E-commerce         | Explore a wide range of items                      |
-| **Work Sync**         | [GitHub](https://github.com/prioty-web/work-sync-client)                                              | -----                                                                                             | [Live](https://work-sync.surge.sh/)     | Employee Management                   | Accesible dashboard |  
+| **Work Sync**             | [GitHub](https://github.com/prioty-web/work-sync-client)                                              | -----                                                                                             | [Live](https://work-sync.surge.sh/)               | Employee Management       | Accessible dashboard                    |
+| **Query Hunt**            | [GitHub](https://github.com/prioty-web/query-hunt-client)                                           | [GitHub](https://github.com/prioty-web/query-hunt-server)                                           | [Live](https://query-hunt.web.app/)                | Product Review            | User can express preference             |
+| **Sports Equipment Store**| [GitHub](https://github.com/prioty-web/sports-equipment-client)                                     | [GitHub](https://github.com/prioty-web/sports-equipment-server)                                     | [Live](https://sports-equipment-d2de9.web.app/)    | E-commerce                | Explore a wide range of items           |
+
+---
 
 
 
